@@ -1,0 +1,79 @@
+Sprite artists credited in CREDITS-LPC-merged.csv (alphabetical, case-insensitive duplicates merged)
+Names marked [+] appear only in the generator credits exports, not in the original credits file.
+
+7Soul
+??
+Ahmad3366
+AntumDeluge
+Barbara Riviera
+Benjamin K. Smith (BenCreating)
+bluecarrot16
+Carlo Enrico Victoria (Nemisys)
+Charles Sanchez (CharlesGabriel)
+Cobra Hubbard (BlueVortexGames)
+dalonedrau
+Daniel Eddeland (daneeklu)
+DarkwallLKE
+David Conway Jr. (JaidynReiman)  [+]
+DCSS authors
+Dr. Jamgo
+drjamgo@hotmail.com
+Durrani
+Eliza Wyatt
+Eliza Wyatt (ElizaWy)
+ElizaWy
+ElizaWy; walk and down by JaidynReiman
+Emilio J. Sanchez-Sierra
+Evert
+Fabzy
+gr3yh47
+Inboxninja
+JaidynReiman
+Joe White
+Johannes Sjölund (wulax)
+Joshua Taylor
+kcilds/Rocetti/Eredah
+kheftel
+kirts
+laetissima
+Lanea Zimmerman (Sharm)
+LordNeo
+Lori Angela Nagel (jastiv)  [+]
+Luke Mehl
+macmanmatty
+Makrohn
+Mandi Paugh
+Manuel Riecke (MrBeast)
+Marcel van de Steeg (MadMarcel)
+Mark Weyer  [+]
+Matthew Krohn (makrohn)
+Michael Whitlock (bigbeargames)
+MuffinElZangano
+Napsio
+Napsio (Vitruvian Studio)
+Nila122
+Nushio  [+]
+Nyom
+Page
+pflat  [+]
+Pierre Vigier (pvigier)
+Pierre Vigier and DCSS artists (see https://github.com/crawl/tiles/blob/master/ARTISTS.md)
+PlatForge project
+Radomir Dopieralski
+Rhimlock  [+]
+Sander Frenken (castelonia)
+Shaun Williams
+Skorpio
+Stafford McIntyre
+Stephen Challener (Redshrike)
+Thane Brimhall (pennomi)
+The Foreman
+thecilekli
+TheraHedwig
+Tracy
+tskaufma
+Tuomo Untinen (reemax)
+William.Thompsonj
+William.Thomsponj
+Yamilian
+Zi Ye
