@@ -1,3 +1,286 @@
-# braaains-credits
+# BRAAAINS sprite credits
 
-Credits for the sprite art used in BRAAAINS, from the Liberated Pixel Cup and Universal LPC Spritesheet Character Generator contributors. Licenses are listed per asset. Some recolor authors are not identified by the generator.
+Sprites from the Liberated Pixel Cup (LPC) and Universal LPC Spritesheet Character Generator contributors. Modifications: sprites were recolored, combined into layered characters, and animated for this game.
+
+The complete per-asset list (about 14,000 rows with the artist, license and source link of every layer) is in [CREDITS-LPC-merged.csv](CREDITS-LPC-merged.csv). This page is the short version.
+
+## Artists (76)
+
+- 7Soul
+- ??
+- Ahmad3366
+- AntumDeluge
+- Barbara Riviera
+- Benjamin K. Smith (BenCreating)
+- bluecarrot16
+- Carlo Enrico Victoria (Nemisys)
+- Charles Sanchez (CharlesGabriel)
+- Cobra Hubbard (BlueVortexGames)
+- dalonedrau
+- Daniel Eddeland (daneeklu)
+- DarkwallLKE
+- David Conway Jr. (JaidynReiman)
+- DCSS authors
+- Dr. Jamgo
+- drjamgo@hotmail.com
+- Durrani
+- Eliza Wyatt
+- Eliza Wyatt (ElizaWy)
+- ElizaWy
+- ElizaWy; walk and down by JaidynReiman
+- Emilio J. Sanchez-Sierra
+- Evert
+- Fabzy
+- gr3yh47
+- Inboxninja
+- JaidynReiman
+- Joe White
+- Johannes Sjölund (wulax)
+- Joshua Taylor
+- kcilds/Rocetti/Eredah
+- kheftel
+- kirts
+- laetissima
+- Lanea Zimmerman (Sharm)
+- LordNeo
+- Lori Angela Nagel (jastiv)
+- Luke Mehl
+- macmanmatty
+- Makrohn
+- Mandi Paugh
+- Manuel Riecke (MrBeast)
+- Marcel van de Steeg (MadMarcel)
+- Mark Weyer
+- Matthew Krohn (makrohn)
+- Michael Whitlock (bigbeargames)
+- MuffinElZangano
+- Napsio
+- Napsio (Vitruvian Studio)
+- Nila122
+- Nushio
+- Nyom
+- Page
+- pflat
+- Pierre Vigier (pvigier)
+- Pierre Vigier and DCSS artists (see https://github.com/crawl/tiles/blob/master/ARTISTS.md)
+- PlatForge project
+- Radomir Dopieralski
+- Rhimlock
+- Sander Frenken (castelonia)
+- Shaun Williams
+- Skorpio
+- Stafford McIntyre
+- Stephen Challener (Redshrike)
+- Thane Brimhall (pennomi)
+- The Foreman
+- thecilekli
+- TheraHedwig
+- Tracy
+- tskaufma
+- Tuomo Untinen (reemax)
+- William.Thompsonj
+- William.Thomsponj
+- Yamilian
+- Zi Ye
+
+## Licenses
+
+- [OGA-BY 3.0](https://opengameart.org/content/oga-by-30-faq)
+- [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.html)
+- [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+- [OGA-BY 3.0+](https://opengameart.org/content/oga-by-30-faq)
+- CC-BY 3.0+
+- [GPL 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+- [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+- [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- [OGA-BY 4.0](https://opengameart.org/content/oga-by-30-faq)
+- GPL 3.0+
+- CC-BY
+- GPL 2.0+
+- OGA-BY-3.0
+- CC-BY-SA 3.0+
+- OGA-SA 3.0
+- CC-BY 4.0+
+
+## Sources
+
+- http://opengameart.org/content/dungeon-crawl-32x32-tiles
+- http://opengameart.org/content/lpc-clothing-updates
+- http://opengameart.org/content/lpc-folk
+- http://opengameart.org/content/lpc-revised-character-basics
+- http://opengameart.org/content/sara-wizard
+- https://github.com/ElizaWy/LPC/blob/main/Characters/Hair
+- https://github.com/ElizaWy/LPC/tree/main/Characters/Clothing
+- https://github.com/ElizaWy/LPC/tree/main/Characters/Clothing/Feminine%2C%20Thin/Accessories
+- https://github.com/ElizaWy/LPC/tree/main/Characters/Clothing/Masculine%2C%20Thin/Accessories/Neckwear%2001%20-%20Bowtie
+- https://github.com/ElizaWy/LPC/tree/main/Characters/Hair
+- https://github.com/ElizaWy/LPC/tree/main/Characters/Head
+- https://github.com/ElizaWy/LPC/tree/main/Characters/Head%20Accessories
+- https://github.com/ElizaWy/LPC/tree/main/Characters/Head/Head%20Overlay%2001%20-%20Large%20Nose
+- https://github.com/ElizaWy/LPC/tree/main/Characters/Props/Shield%2001%20-%20Heater%20Shield
+- https://github.com/ElizaWy/LPC/tree/main/Characters/Props/Sword%2001%20-%20Arming%20Sword
+- https://github.com/jrconway3/Universal-LPC-spritesheet/commit/46ddcf05a0e43e7aa6ffd47d350eef0eb529ac24
+- https://github.com/jrconway3/Universal-LPC-spritesheet/commit/c32ce8a7edd9fc7fe7daa62a39cf64e5946020a2
+- https://github.com/makrohn/Universal-LPC-spritesheet/commit/f50007cb47c235d8896cafae7a613f0b6a9a09a8?short_path=02b86d4#diff-02b86d45789a3e3e8e79519c7d17d15c9e6ecc9b4ddecb1bcd8dfbbaef430b75
+- https://gitlab.com/vagabondgame/lpc-characters
+- https://opengameart.org/content/
+- https://opengameart.org/content/3-hairs-for-lpc
+- https://opengameart.org/content/alternate-lpc-character-sprites-george
+- https://opengameart.org/content/anime-lpc-hair
+- https://opengameart.org/content/bunny-rabbit-lpc-style-for-pixelfarm
+- https://opengameart.org/content/cc0-headgear-icons
+- https://opengameart.org/content/cc0-jewelry-icons
+- https://opengameart.org/content/clothing-facial-features-and-ui-elements
+- https://opengameart.org/content/concept-art-for-lpc-entry
+- https://opengameart.org/content/cyclops-and-his-eye
+- https://opengameart.org/content/drakes-and-lizardfolk
+- https://opengameart.org/content/dungeon-crawl-32x32-tiles
+- https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing
+- https://opengameart.org/content/fantasy-rpg-npcs
+- https://opengameart.org/content/female-mage-clothing-set
+- https://opengameart.org/content/four-characters-my-lpc-entries
+- https://opengameart.org/content/fruit-and-veggie-inventory
+- https://opengameart.org/content/jastivs-artwork
+- https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+- https://opengameart.org/content/lpc-1-hairstyle-2-hair-extensions-3-previously-unofficially-released-hairstyles
+- https://opengameart.org/content/lpc-2-characters
+- https://opengameart.org/content/lpc-7-womens-shirts
+- https://opengameart.org/content/lpc-aprons
+- https://opengameart.org/content/lpc-axe
+- https://opengameart.org/content/lpc-backpacks
+- https://opengameart.org/content/lpc-bandages
+- https://opengameart.org/content/lpc-barbarian-sprite-base
+- https://opengameart.org/content/lpc-base-character-expressions
+- https://opengameart.org/content/lpc-be-seated
+- https://opengameart.org/content/lpc-boarman
+- https://opengameart.org/content/lpc-brunet-mustache
+- https://opengameart.org/content/lpc-celestial-wizard-hats
+- https://opengameart.org/content/lpc-character-bases
+- https://opengameart.org/content/lpc-child-standing-template
+- https://opengameart.org/content/lpc-children-walk-animation
+- https://opengameart.org/content/lpc-clothes-and-hair
+- https://opengameart.org/content/lpc-clothes-for-children
+- https://opengameart.org/content/lpc-clothing-updates
+- https://opengameart.org/content/lpc-combat-armor-for-women
+- https://opengameart.org/content/lpc-crossbow-final
+- https://opengameart.org/content/lpc-crown
+- https://opengameart.org/content/lpc-curly-hair-elven-ears-white-cape-with-blue-trim-and-more
+- https://opengameart.org/content/lpc-dark-elves
+- https://opengameart.org/content/lpc-dcss-swords
+- https://opengameart.org/content/lpc-dress-in-combat-poses
+- https://opengameart.org/content/lpc-expanded-armor
+- https://opengameart.org/content/lpc-expanded-armour
+- https://opengameart.org/content/lpc-expanded-hair
+- https://opengameart.org/content/lpc-expanded-hats-facial-helmets
+- https://opengameart.org/content/lpc-expanded-long-hair
+- https://opengameart.org/content/lpc-expanded-pants
+- https://opengameart.org/content/lpc-expanded-simple-shirts
+- https://opengameart.org/content/lpc-expanded-sit-run-jump-more
+- https://opengameart.org/content/lpc-expanded-socks-shoes
+- https://opengameart.org/content/lpc-expanded-xlong-hair
+- https://opengameart.org/content/lpc-extended-weapon-animations
+- https://opengameart.org/content/lpc-fairy-wings
+- https://opengameart.org/content/lpc-fairy-wings-pack-2
+- https://opengameart.org/content/lpc-farming-tilesets-magic-animations-and-ui-elements
+- https://opengameart.org/content/lpc-faun-and-minotaur
+- https://opengameart.org/content/lpc-female-orcogregoblintroll-base-walkcycle
+- https://opengameart.org/content/lpc-folk
+- https://opengameart.org/content/lpc-full-plate-golden-armor
+- https://opengameart.org/content/lpc-full-plate-golden-armor-0
+- https://opengameart.org/content/lpc-furry-ears-tails-for-rpg-sprites
+- https://opengameart.org/content/lpc-gentleman
+- https://opengameart.org/content/lpc-glow-sword
+- https://opengameart.org/content/lpc-goblin
+- https://opengameart.org/content/lpc-hair
+- https://opengameart.org/content/lpc-hand-tools
+- https://opengameart.org/content/lpc-helmets
+- https://opengameart.org/content/lpc-helmets-mega-pack
+- https://opengameart.org/content/lpc-heroine
+- https://opengameart.org/content/lpc-heroine-2
+- https://opengameart.org/content/lpc-hijab
+- https://opengameart.org/content/lpc-items-and-game-effects
+- https://opengameart.org/content/lpc-jewelry
+- https://opengameart.org/content/lpc-jump-expanded
+- https://opengameart.org/content/lpc-kimono-relm
+- https://opengameart.org/content/lpc-kite-shield
+- https://opengameart.org/content/lpc-korean-idol-hairstyle-male-with-12-colors
+- https://opengameart.org/content/lpc-ladies
+- https://opengameart.org/content/lpc-lizard-headgear
+- https://opengameart.org/content/lpc-long-ears
+- https://opengameart.org/content/lpc-long-straight-hair-with-12-colors
+- https://opengameart.org/content/lpc-long-tied-hair-with-12-colors
+- https://opengameart.org/content/lpc-magic-staff
+- https://opengameart.org/content/lpc-male-jumping-animation-by-durrani
+- https://opengameart.org/content/lpc-male-sheets
+- https://opengameart.org/content/lpc-maskman
+- https://opengameart.org/content/lpc-masks
+- https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+- https://opengameart.org/content/lpc-medieval-weapons
+- https://opengameart.org/content/lpc-more-backpacks
+- https://opengameart.org/content/lpc-more-weapons
+- https://opengameart.org/content/lpc-muscular-hurt-animation
+- https://opengameart.org/content/lpc-muscular-pants
+- https://opengameart.org/content/lpc-muscular-swing-animation
+- https://opengameart.org/content/lpc-new-elven-ear-variants
+- https://opengameart.org/content/lpc-new-wing-animations-for-elizawys-batfeathered-wings
+- https://opengameart.org/content/lpc-pink-short-hair
+- https://opengameart.org/content/lpc-pirates
+- https://opengameart.org/content/lpc-pointed-hats
+- https://opengameart.org/content/lpc-pregnancy-bases-maternity-wear
+- https://opengameart.org/content/lpc-realistic-helmet-pack
+- https://opengameart.org/content/lpc-relm-hair-xlong-ponytail
+- https://opengameart.org/content/lpc-relm-outfit-pieces-2-kimonos-2-sleeves-2-boots-tabi-socks-updated-4924
+- https://opengameart.org/content/lpc-revised-character-basics
+- https://opengameart.org/content/lpc-revised-elders
+- https://opengameart.org/content/lpc-roman-armor
+- https://opengameart.org/content/lpc-runcycle-and-diagonal-walkcycle
+- https://opengameart.org/content/lpc-runcycle-for-male-muscular-and-pregnant-character-bases-with-modular-heads
+- https://opengameart.org/content/lpc-santa
+- https://opengameart.org/content/lpc-sara
+- https://opengameart.org/content/lpc-shields
+- https://opengameart.org/content/lpc-shields-pack
+- https://opengameart.org/content/lpc-simple-staff
+- https://opengameart.org/content/lpc-skeleton
+- https://opengameart.org/content/lpc-skorpios-scifi-sprite-pack
+- https://opengameart.org/content/lpc-spear-and-shovel-reworked
+- https://opengameart.org/content/lpc-style-farm-animals
+- https://opengameart.org/content/lpc-teen-androgynous-short-sleeve-shirt
+- https://opengameart.org/content/lpc-teen-unisex-base-clothes
+- https://opengameart.org/content/lpc-walk-animations-for-bows
+- https://opengameart.org/content/lpc-wands
+- https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident
+- https://opengameart.org/content/lpc-white-beard
+- https://opengameart.org/content/lpc-wild-boar
+- https://opengameart.org/content/lpc-wings-new-animations
+- https://opengameart.org/content/lpc-wolf-animation
+- https://opengameart.org/content/lpc-wolfman
+- https://opengameart.org/content/lpc-zombie
+- https://opengameart.org/content/more-lpc-clothes-and-hair
+- https://opengameart.org/content/musclemanogreminotaur
+- https://opengameart.org/content/one-more-lpc-alternate-character
+- https://opengameart.org/content/ponytail-and-plain-hairstyles
+- https://opengameart.org/content/puck-overland
+- https://opengameart.org/content/shadow-for-lpc-sprite
+- https://opengameart.org/content/sinbad-the-ogre
+- https://opengameart.org/content/staff-64-x64
+- https://opengameart.org/content/star-overland
+- https://opengameart.org/content/steampun-a-fy-with-concept-art
+- https://opengameart.org/content/the-revolution-hair
+- https://opengameart.org/content/thin-mage-clothing-set
+- https://opengameart.org/content/tower-defense-prototyping-assets-4-monsters-some-tiles-a-background-image
+- https://opengameart.org/content/trevor-overland
+- https://opengameart.org/content/trolls-0
+- https://opengameart.org/content/ulpc-expanded-expressions
+- https://opengameart.org/content/wartotaur-4-directions
+- https://opengameart.org/content/wizard-2
+- https://opengameart.org/content/wizard-hat
+- https://www.deviantart.com/7soul1/art/129892453
+- https:/opengameart.org/content/lpc-celestial-wizard-hats
+- https:/opengameart.org/content/lpc-expanded-hats-facial-helmets
+
+## Note
+
+Some recolor authors are not identified by the generator (it lists them as "Somebody did this recolor but I can't find it").
+
